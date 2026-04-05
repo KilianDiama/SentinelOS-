@@ -1,3 +1,5 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
+
 SentinelOS 🧠
 
 SentinelOS is a simulated biofeedback and cognitive state management system inspired by neuroscience principles, cognitive behavioral therapy (CBT), and self-regulation models. It models emotional states, biochemical responses, and adaptive protocols to demonstrate how internal states could be tracked and stabilized programmatically.
